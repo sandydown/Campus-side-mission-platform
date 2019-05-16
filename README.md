@@ -120,3 +120,27 @@
  </table>
 
 ## 改
+###涉众分析及硬数据采样
+## 操作过程
+<table>
+  <tr>
+    <th align="center">拟题决定</th>
+    <th align="center">时间：5月12日 20：00
+具体内容：组内讨论，面向平台的用户，提出针对于用户可选择的一些问题并记录</td>
+  </tr>
+  <tr>
+    <td align="center">问卷发布</td>
+    <td align="center">时间：5月12日 22：30
+具体内容：就讨论过程中所提出的问题设计问卷并发布</td>
+  </tr>
+  <tr>
+    <td align="center">问卷统计/td>
+    <td align="center">时间：5月14日
+具体内容：问卷截止后，统计问卷的整体情况，绘制出相关表格、图形
+</td>
+  </tr>
+  <tr>
+    <td rowspan="6" align="center">数据分析</td>
+     <td align="center">时间：5月14日
+具体内容：就问卷所统计的数据信息进行经验分析，并得出相关结论
+</td>
